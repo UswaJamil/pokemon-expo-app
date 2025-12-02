@@ -23,6 +23,5 @@ Try the app in **Expo Go**:
 
 ---
 
-## 📸 Screenshots 
 
 
