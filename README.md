@@ -23,7 +23,6 @@ Try the app in **Expo Go**:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-You can add screenshots later in `assets/screenshots/`:
 
