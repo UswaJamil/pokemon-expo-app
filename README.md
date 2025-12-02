@@ -26,15 +26,15 @@ Try the app in **Expo Go**:
 
 **Home Screen**
 
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/home.jpeg)
 
 **Detail Screen**
 
-![Detail Screen](assets/screenshots/detail.png)
+![Detail Screen](assets/screenshots/detail.jpeg)
 
 **List Screen**
 
-![List Screen](assets/screenshots/list.png)
+![List Screen](assets/screenshots/list.jpeg)
 
 
 
