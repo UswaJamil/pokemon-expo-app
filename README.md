@@ -22,6 +22,20 @@ Try the app in **Expo Go**:
 - Built with **Expo and React Native**
 
 ---
+## 📸 Screenshots
+
+**Home Screen**
+
+![Home Screen](assets/screenshots/home.png)
+
+**Detail Screen**
+
+![Detail Screen](assets/screenshots/detail.png)
+
+**List Screen**
+
+![List Screen](assets/screenshots/list.png)
+
 
 
 
